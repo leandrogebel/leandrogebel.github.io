@@ -1,1 +1,1 @@
-# readme message here
+# GitHub pages repository for personal projects
